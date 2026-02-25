@@ -2,7 +2,7 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+// import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
@@ -12,13 +12,13 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <Heading as="h1" className="hero__title">
+        <Heading as="h1" className="hero__title misty-text" style={{color: 'white'}}>
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle misty-text" style={{color: 'white'}}>{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--primary button--lg"
+            className="button button--primary button--lg "
             to="/docs/intro">
            تعلم الأن
           </Link>
@@ -35,9 +35,10 @@ export default function Home() {
       title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
+      {/* <main>
+      
+      </main>  */}
+
     </Layout>
   );
 }

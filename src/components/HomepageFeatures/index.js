@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/fashion.svg').default,
     description: (
       <>
-      يتبع قالب اللافندر في تصميمه أحدث أنماط الموضة والتخطيطات لجعل متجرك مميزًا
+      يتبع قالب القمر في تصميمه أحدث أنماط الموضة والتخطيطات لجعل متجرك مميزًا
       </>
     ),
   },
@@ -46,16 +46,16 @@ function Feature({Svg, title, description}) {
   );
 }
 
-export default function HomepageFeatures() {
-  return (
-    <section className={styles.features}>
-      <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
-          ))}
-        </div>
-      </div>
-    </section>
-  );
-}
+// export default function HomepageFeatures() {
+//   return (
+//     <section className={styles.features}>
+//       <div className="container">
+//         <div className="row">
+//           {FeatureList.map((props, idx) => (
+//             <Feature key={idx} {...props} />
+//           ))}
+//         </div>
+//       </div>
+//     </section>
+//   );
+// }

@@ -3,8 +3,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'لافندر | Lavender',
-  tagline: 'هذا الموقع هو موقع توثيق لثيم لافندر على منصة سلة للتجارة الإلكترونية.',
+  title: 'قمر | moon',
+  tagline: 'هذا الموقع هو موقع توثيق لثيم قمر على منصة سلة للتجارة الإلكترونية.',
   favicon: '/img/favicon.ico',
 
   future: {
@@ -12,10 +12,10 @@ const config = {
   },
 
   url: 'https://ilyesCodes.github.io',
-  baseUrl: '/lavender-docs-build/',
+  baseUrl: '/moon-docs-build/',
 
   organizationName: 'ilyesCodes',
-  projectName: 'lavender-docs-build',
+  projectName: 'moon-docs-build',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -31,7 +31,7 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/ilyesCodes/lavender-docs-build/edit/main/',
+          editUrl: 'https://github.com/ilyesCodes/moon-docs-build/edit/main/',
         },
         blog: {
           showReadingTime: true,
@@ -39,7 +39,7 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl: 'https://github.com/ilyesCodes/lavender-docs-build/edit/main/',
+          editUrl: 'https://github.com/ilyesCodes/moon-docs-build/edit/main/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -52,9 +52,9 @@ const config = {
   ],
 
   themeConfig: {
-    image: 'img/LAVENDER.png',
+    image: 'img/moon.png',
     navbar: {
-      title: 'لافندر',
+      title: 'قمر',
       items: [
         {
           type: 'docSidebar',
@@ -74,14 +74,14 @@ const config = {
         },
         {
           title: 'Community',
-          items: [{label: 'X', href: 'https://x.com/docusaurus'}],
+          items: [{label: 'X', href: '#'}],
         },
         {
           title: 'More',
           items: [{label: 'Blog', to: '/blog'}],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Lavender, BAYO LTD. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Moon Theme.`,
     },
     prism: {
       theme: prismThemes.github,
