@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ilyes-engineering.github.io/moon-theme-documentation/blog</id>
+    <title>قمر | moon Blog</title>
+    <updated>2026-02-24T15:07:30.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ilyes-engineering.github.io/moon-theme-documentation/blog"/>
+    <subtitle>قمر | moon Blog</subtitle>
+    <icon>https://ilyes-engineering.github.io/moon-theme-documentation/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[مقدمة مدونة]]></title>
+        <id>https://ilyes-engineering.github.io/moon-theme-documentation/blog/blog</id>
+        <link href="https://ilyes-engineering.github.io/moon-theme-documentation/blog/blog"/>
+        <updated>2026-02-24T15:07:30.000Z</updated>
+        <summary type="html"><![CDATA[بسم الله الرحمن الرحيم]]></summary>
+        <content type="html"><![CDATA[<p><strong>بسم الله الرحمن الرحيم</strong></p>
+<p>في عالم التجارة الإلكترونية، المظهر هو أول خطوة نحو بناء الثقة مع العميل. ولهذا السبب، نقدم لكم قالب moon الجديد على منصة سلة – قالب صُمم خصيصًا ليتماشى مع طبيعة متاجر مستحضرات التجميل، الأزياء، والعطور.</p>
+<p>يتميز قالب moon بتصميمه العصري والبسيط، المستوحى من أحدث اتجاهات متاجر التجميل العالمية. يجمع هذا الثيم بين الأناقة والكفاءة، ويمنح متجرك تجربة مستخدم احترافية تشبه تلك التي تقدمها أكبر العلامات التجارية في هذا المجال.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="لماذا-قمر">لماذا قمر؟<a href="https://ilyes-engineering.github.io/moon-theme-documentation/blog/blog#%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%82%D9%85%D8%B1" class="hash-link" aria-label="ارتباط مباشر بالعنوان لماذا قمر؟" title="ارتباط مباشر بالعنوان لماذا قمر؟">​</a></h2>
+<p>لأننا ندرك أن التميز في واجهة المتجر يعكس هوية علامتك التجارية، فقد تم تطوير moon ليكون متوافقًا تمامًا مع احتياجات متاجر الموضة والتجميل. تصميمه المتجاوب، مكوناته المتعددة، وسرعته العالية، تجعل منه خيارًا مثاليًا لكل من يسعى إلى تقديم تجربة تسوق فريدة ومتميزة.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[moon-theme-blog]]></title>
+        <id>https://ilyes-engineering.github.io/moon-theme-documentation/blog/moon-theme-blog</id>
+        <link href="https://ilyes-engineering.github.io/moon-theme-documentation/blog/moon-theme-blog"/>
+        <updated>2026-02-24T15:07:30.000Z</updated>
+        <summary type="html"><![CDATA[<!-- ---]]></summary>
+    </entry>
+</feed>

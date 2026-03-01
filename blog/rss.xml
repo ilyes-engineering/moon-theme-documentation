@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>قمر | moon Blog</title>
+        <link>https://ilyes-engineering.github.io/moon-theme-documentation/blog</link>
+        <description>قمر | moon Blog</description>
+        <lastBuildDate>Tue, 24 Feb 2026 15:07:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ar</language>
+        <item>
+            <title><![CDATA[مقدمة مدونة]]></title>
+            <link>https://ilyes-engineering.github.io/moon-theme-documentation/blog/blog</link>
+            <guid>https://ilyes-engineering.github.io/moon-theme-documentation/blog/blog</guid>
+            <pubDate>Tue, 24 Feb 2026 15:07:30 GMT</pubDate>
+            <description><![CDATA[بسم الله الرحمن الرحيم]]></description>
+            <content:encoded><![CDATA[<p><strong>بسم الله الرحمن الرحيم</strong></p>
+<p>في عالم التجارة الإلكترونية، المظهر هو أول خطوة نحو بناء الثقة مع العميل. ولهذا السبب، نقدم لكم قالب moon الجديد على منصة سلة – قالب صُمم خصيصًا ليتماشى مع طبيعة متاجر مستحضرات التجميل، الأزياء، والعطور.</p>
+<p>يتميز قالب moon بتصميمه العصري والبسيط، المستوحى من أحدث اتجاهات متاجر التجميل العالمية. يجمع هذا الثيم بين الأناقة والكفاءة، ويمنح متجرك تجربة مستخدم احترافية تشبه تلك التي تقدمها أكبر العلامات التجارية في هذا المجال.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="لماذا-قمر">لماذا قمر؟<a href="https://ilyes-engineering.github.io/moon-theme-documentation/blog/blog#%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%82%D9%85%D8%B1" class="hash-link" aria-label="ارتباط مباشر بالعنوان لماذا قمر؟" title="ارتباط مباشر بالعنوان لماذا قمر؟">​</a></h2>
+<p>لأننا ندرك أن التميز في واجهة المتجر يعكس هوية علامتك التجارية، فقد تم تطوير moon ليكون متوافقًا تمامًا مع احتياجات متاجر الموضة والتجميل. تصميمه المتجاوب، مكوناته المتعددة، وسرعته العالية، تجعل منه خيارًا مثاليًا لكل من يسعى إلى تقديم تجربة تسوق فريدة ومتميزة.</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[moon-theme-blog]]></title>
+            <link>https://ilyes-engineering.github.io/moon-theme-documentation/blog/moon-theme-blog</link>
+            <guid>https://ilyes-engineering.github.io/moon-theme-documentation/blog/moon-theme-blog</guid>
+            <pubDate>Tue, 24 Feb 2026 15:07:30 GMT</pubDate>
+            <description><![CDATA[<!-- ---]]></description>
+        </item>
+    </channel>
+</rss>
