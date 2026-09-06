@@ -11,10 +11,10 @@ const config = {
     v4: true,
   },
 
-  url: 'https://ilyesCodes.github.io',
+  url: 'https://ilyes-engineering.github.io',
   baseUrl: '/moon-theme-documentation/',
 
-  organizationName: 'ilyesCodes',
+  organizationName: 'ilyes-engineering',
   projectName: 'moon-theme-documentation',
 
   onBrokenLinks: 'throw',
