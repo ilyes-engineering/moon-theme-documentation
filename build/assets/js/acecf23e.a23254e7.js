@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmoon_docs=self.webpackChunkmoon_docs||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/moon-theme-documentation/blog","blogTitle":"Blog","authorsListPath":"/moon-theme-documentation/blog/authors"}')}}]);

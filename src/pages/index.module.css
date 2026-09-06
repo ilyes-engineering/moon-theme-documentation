@@ -1,38 +1,108 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
-.heroBanner {
-  width: 100vw;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-  padding: 0; /* Remove padding to ensure full coverage */
-  background-image: url('/img/moontheme.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+:global(:root) {
+  --moon-ink: #08060d;
+  --moon-cream: #f7f3ff;
+  --moon-lilac: #c3a4ff;
+  --moon-coral: #9a5cff;
+  --moon-muted: #89829a;
 }
 
-
+.heroBanner { background: var(--moon-ink); color: var(--moon-cream); min-height: 790px; overflow: hidden; padding: 0 0 7rem; position: relative; }
+.heroGlow { background: radial-gradient(circle, rgba(139, 72, 255, .28), transparent 68%); height: 760px; position: absolute; right: -12%; top: -28%; width: 760px; }
+.landingNav { align-items: center; display: flex; justify-content: space-between; margin: 0 auto; max-width: 1240px; padding: 1.6rem 2rem; position: relative; z-index: 2; }
+.siteMark { align-items: center; color: var(--moon-cream); display: inline-flex; font-size: 1.35rem; font-weight: 700; gap: .65rem; text-decoration: none; }
+.siteMark:hover { color: var(--moon-lilac); text-decoration: none; }
+.siteMark img { height: 34px; object-fit: contain; width: 34px; }
+.navLinks { display: flex; gap: 2.2rem; margin-right: auto; padding-right: 4rem; }
+.navLinks a, .textButton { color: #b9c0c5; font-size: .9rem; text-decoration: none; transition: color .2s ease; }
+.navLinks a:hover, .textButton:hover { color: var(--moon-cream); text-decoration: none; }
+.navCta { border: 1px solid rgba(247, 243, 255, .35); border-radius: 999px; color: var(--moon-cream); font-size: .85rem; padding: .65rem 1.1rem; text-decoration: none; }
+.navCta span { color: var(--moon-coral); margin-right: .35rem; }
+.navCta:hover { background: var(--moon-cream); color: var(--moon-ink); text-decoration: none; }
+.heroGrid { align-items: center; display: grid; gap: 5rem; grid-template-columns: minmax(0, .9fr) minmax(360px, 1.1fr); min-height: 650px; position: relative; z-index: 1; }
+.heroCopy { padding-right: 2rem; }
+.eyebrow { align-items: center; color: var(--moon-coral); display: flex; font-size: .76rem; font-weight: 700; gap: .65rem; letter-spacing: .08em; margin: 0 0 1.4rem; }
+.eyebrow span { background: var(--moon-coral); display: inline-block; height: 7px; width: 7px; }
+.heroCopy h1, .sectionIntro h2, .showcaseCopy h2, .finalCta h2 { color: var(--moon-cream); font-size: clamp(3.6rem, 7vw, 6.8rem); font-weight: 500; letter-spacing: -.06em; line-height: .94; margin: 0; }
+.heroCopy h1 em, .sectionIntro h2 em, .showcaseCopy h2 em, .finalCta h2 em { color: var(--moon-lilac); font-family: Georgia, serif; font-style: italic; font-weight: 400; }
+.heroLead { color: #abb2b8; font-size: 1.03rem; line-height: 1.9; margin: 2rem 0; max-width: 510px; }
+.heroActions { align-items: center; display: flex; gap: 1.5rem; }
+.primaryButton { align-items: center; background: var(--moon-coral); border-radius: 999px; color: #1a2025; display: inline-flex; font-size: .9rem; font-weight: 700; gap: 1.25rem; padding: .9rem 1.25rem .9rem 1.5rem; text-decoration: none; transition: transform .2s ease, background .2s ease; }
+.primaryButton:hover { background: #ff9a7c; color: #1a2025; text-decoration: none; transform: translateY(-3px); }
+.primaryButton span, .textButton span, .outlineButton span { font-size: 1.2rem; }
+.textButton { align-items: center; display: inline-flex; gap: .45rem; }
+.heroNote { align-items: center; color: #6f7982; display: flex; font-size: .72rem; gap: .5rem; margin-top: 4rem; }
+.noteDot { background: var(--moon-lilac); border-radius: 50%; height: 6px; width: 6px; }
+.heroVisual { min-height: 570px; position: relative; }
+.imageFrame { height: 510px; overflow: hidden; position: absolute; right: 5%; top: 3%; transform: rotate(3deg); width: min(390px, 78%); z-index: 1; }
+.imageFrame img { height: 100%; object-fit: cover; width: 100%; }
+.imageShade { background: linear-gradient(180deg, transparent 35%, rgba(17, 24, 32, .8)); inset: 0; position: absolute; }
+.visualCaption { bottom: 2rem; color: var(--moon-cream); display: flex; flex-direction: column; gap: .5rem; position: absolute; right: 2rem; }
+.visualCaption span { color: var(--moon-coral); font-size: .68rem; letter-spacing: .16em; }
+.visualCaption strong { font-size: 1.55rem; font-weight: 500; line-height: 1.15; }
+.orbit { border: 1px solid rgba(195, 164, 255, .5); border-radius: 50%; height: 510px; position: absolute; right: 2%; top: 5%; transform: rotate(-24deg); width: 390px; }
+.orbitTwo { border-color: rgba(154, 92, 255, .45); height: 470px; right: 14%; top: 11%; transform: rotate(49deg); width: 330px; }
+.floatingLabel { align-items: center; background: var(--moon-lilac); bottom: 5%; color: var(--moon-ink); display: flex; font-size: .8rem; gap: 1rem; padding: .75rem 1rem; position: absolute; right: 0; transform: rotate(-7deg); z-index: 2; }
+.floatingLabel b { color: var(--moon-coral); font-size: 1.2rem; }
+.starMark { color: var(--moon-coral); font-size: 3rem; left: 2%; position: absolute; top: 12%; }
+.featureSection { background: #f0ebfb; color: var(--moon-ink); padding: 9rem 0; }
+.featureSection .eyebrow, .showcaseSection .eyebrow, .finalCta .eyebrow { color: var(--moon-coral); }
+.featureSection .eyebrow span, .showcaseSection .eyebrow span, .finalCta .eyebrow span { background: var(--moon-coral); }
+.sectionIntro { display: grid; grid-template-columns: .8fr 1.1fr .9fr; gap: 2rem; align-items: end; margin-bottom: 5rem; }
+.sectionIntro h2, .showcaseCopy h2 { color: var(--moon-ink); font-size: clamp(3.2rem, 6vw, 5.4rem); }
+.sectionIntro h2 em, .showcaseCopy h2 em { color: #8671ba; }
+.sectionIntro > p:last-child { color: var(--moon-muted); line-height: 1.9; margin: 0 0 .3rem; }
+.featureGrid { border-top: 1px solid #d8d1c7; display: grid; grid-template-columns: repeat(3, 1fr); }
+.featureCard { border-left: 1px solid #d8d1c7; min-height: 270px; padding: 1.5rem 2rem; position: relative; }
+.featureCard:last-child { border-left: 0; }
+.featureNumber { color: #a294b9; font-family: Georgia, serif; font-size: 1.2rem; }
+.featureLine { background: var(--moon-coral); height: 2px; margin: 2.5rem 0 1.5rem; width: 36px; }
+.featureCard h3 { font-size: 1.45rem; font-weight: 600; margin: 0 0 .75rem; }
+.featureCard p { color: var(--moon-muted); font-size: .9rem; line-height: 1.8; max-width: 250px; }
+.featureArrow { bottom: 1.5rem; color: var(--moon-coral); font-size: 1.4rem; position: absolute; left: 2rem; }
+.showcaseSection { background: #171020; color: var(--moon-cream); padding: 9rem 0; }
+.showcaseCopy h2 { color: var(--moon-cream); font-size: clamp(3.2rem, 6vw, 5.4rem); }
+.showcaseGrid { align-items: center; display: grid; gap: 7rem; grid-template-columns: 1.1fr .9fr; }
+.showcaseImage { min-height: 440px; overflow: hidden; position: relative; transform: rotate(-3deg); }
+.showcaseImage img { background: var(--moon-ink); box-sizing: border-box; height: 100%; object-fit: contain; object-position: center; padding: 1rem; position: absolute; width: 100%; }
+.showcaseTag { background: var(--moon-ink); bottom: 1.5rem; color: var(--moon-cream); font-size: .7rem; left: 1.5rem; letter-spacing: .16em; padding: .65rem .8rem; position: absolute; }
+.showcaseCopy > p:not(.eyebrow) { color: var(--moon-muted); line-height: 1.9; margin: 2rem 0; max-width: 400px; }
+.showcaseCopy > p:not(.eyebrow) { color: #b9b0c7; line-height: 1.9; margin: 2rem 0; max-width: 400px; }
+.outlineButton { border: 1px solid var(--moon-lilac); color: var(--moon-cream); display: inline-flex; gap: 1rem; padding: .8rem 1.1rem; text-decoration: none; }
+.outlineButton:hover { background: var(--moon-lilac); color: var(--moon-ink); text-decoration: none; }
+.finalCta { align-items: center; background: var(--moon-ink); display: flex; flex-direction: column; min-height: 540px; justify-content: center; padding: 6rem 1.5rem; text-align: center; }
+.finalCta h2 { margin-bottom: 2.5rem; }
 
 @media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+  .landingNav { padding: 1.25rem; }
+  .navLinks { display: none; }
+  .heroGrid { gap: 2rem; grid-template-columns: 1fr; padding-top: 4rem; }
+  .heroCopy { padding: 0 1.25rem; }
+  .heroVisual { min-height: 500px; }
+  .sectionIntro { grid-template-columns: 1fr 1fr; }
+  .sectionIntro > p:last-child { grid-column: 1 / -1; max-width: 500px; }
+  .showcaseGrid { gap: 4rem; grid-template-columns: 1fr; }
+  .showcaseImage { min-height: 360px; }
 }
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.hero__subtitle,.hero__title{
-  color: white !important;
+@media screen and (max-width: 600px) {
+  .heroBanner { min-height: 0; padding-bottom: 3rem; }
+  .navCta { font-size: .75rem; padding: .55rem .75rem; }
+  .heroCopy h1 { font-size: 3.5rem; }
+  .heroLead { font-size: .93rem; }
+  .heroActions { align-items: flex-start; flex-direction: column; gap: 1.1rem; }
+  .heroNote { margin-top: 2.5rem; }
+  .heroVisual { min-height: 390px; }
+  .imageFrame { height: 360px; right: 5%; width: 78%; }
+  .orbit { height: 360px; width: 78%; }
+  .orbitTwo { height: 330px; width: 68%; }
+  .floatingLabel { bottom: 2%; }
+  .featureSection, .showcaseSection { padding: 5rem 0; }
+  .sectionIntro { display: block; margin-bottom: 3rem; }
+  .sectionIntro h2 { margin-bottom: 1.5rem; }
+  .featureGrid { display: block; }
+  .featureCard, .featureCard:last-child { border-bottom: 1px solid #d8d1c7; border-left: 0; min-height: 220px; }
+  .featureCard:last-child { border-bottom: 0; }
+  .showcaseGrid { padding: 0 1.25rem; }
+  .showcaseCopy h2 { font-size: 3.5rem; }
+  .finalCta h2 { font-size: 3.6rem; }
 }
