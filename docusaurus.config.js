@@ -12,10 +12,10 @@ const config = {
   },
 
   url: 'https://ilyesCodes.github.io',
-  baseUrl: '/moon-docs-build/',
+  baseUrl: '/moon-theme-documentation/',
 
   organizationName: 'ilyesCodes',
-  projectName: 'moon-docs-build',
+  projectName: 'moon-theme-documentation',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -31,7 +31,7 @@ const config = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/ilyesCodes/moon-docs-build/edit/main/',
+          editUrl: 'https://github.com/ilyes-engineering/moon-theme-documentation/edit/main/',
         },
         blog: {
           showReadingTime: true,
@@ -39,7 +39,7 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl: 'https://github.com/ilyesCodes/moon-docs-build/edit/main/',
+          editUrl: 'https://github.com/ilyes-engineering/moon-theme-documentation/edit/main/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
