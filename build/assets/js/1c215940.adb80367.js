@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoon_docs=self.webpackChunkmoon_docs||[]).push([[3758],{2937:e=>{e.exports=JSON.parse('{"authors":[{"name":"Binary Moon","title":"Software Company","url":"https://binarymoon.tech","key":"Theme Developer","page":null,"count":0}]}')}}]);
