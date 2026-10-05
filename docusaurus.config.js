@@ -63,6 +63,7 @@ const config = {
           label: 'دليل الاستعمال',
         },
         {to: '/blog', label: 'مدونة', position: 'left'},
+        {to: '/changelog', label: 'سجل التغييرات', position: 'left'},
       ],
     },
     footer: {
@@ -78,7 +79,10 @@ const config = {
         },
         {
           title: 'More',
-          items: [{label: 'Blog', to: '/blog'}],
+          items: [
+            {label: 'Blog', to: '/blog'},
+            {label: 'سجل التغييرات', to: '/changelog'},
+          ],
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Moon Theme.`,
