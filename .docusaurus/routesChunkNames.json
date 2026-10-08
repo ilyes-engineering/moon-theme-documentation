@@ -1,0 +1,227 @@
+{
+  "/moon-theme-documentation/__docusaurus/debug-5ed": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---moon-theme-documentation-docusaurus-debugb-38-e45"
+    }
+  },
+  "/moon-theme-documentation/__docusaurus/debug/config-ffc": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---moon-theme-documentation-docusaurus-debugb-38-e45"
+    }
+  },
+  "/moon-theme-documentation/__docusaurus/debug/content-3f0": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---moon-theme-documentation-docusaurus-debugb-38-e45"
+    },
+    "__props": "__props---moon-theme-documentation-docusaurus-debug-content-778-454"
+  },
+  "/moon-theme-documentation/__docusaurus/debug/globalData-819": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---moon-theme-documentation-docusaurus-debugb-38-e45"
+    }
+  },
+  "/moon-theme-documentation/__docusaurus/debug/metadata-339": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---moon-theme-documentation-docusaurus-debugb-38-e45"
+    }
+  },
+  "/moon-theme-documentation/__docusaurus/debug/registry-bd3": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---moon-theme-documentation-docusaurus-debugb-38-e45"
+    }
+  },
+  "/moon-theme-documentation/__docusaurus/debug/routes-c2c": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---moon-theme-documentation-docusaurus-debugb-38-e45"
+    }
+  },
+  "/moon-theme-documentation/changelog-ed5": {
+    "__comp": "__comp---site-src-pages-changelog-js-5-cb-ec9",
+    "__context": {
+      "plugin": "plugin---moon-theme-documentation-changeloga-74-0a4"
+    },
+    "config": "config---moon-theme-documentation-changelog-5-e-9-9ba"
+  },
+  "/moon-theme-documentation/markdown-page-29c": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---moon-theme-documentation-changeloga-74-0a4"
+    },
+    "content": "content---moon-theme-documentation-markdown-page-393-4da"
+  },
+  "/moon-theme-documentation/docs-94d": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---moon-theme-documentation-docsaba-30f"
+    }
+  },
+  "/moon-theme-documentation/docs-24e": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---moon-theme-documentation-docs-401-511"
+  },
+  "/moon-theme-documentation/docs-cd4": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/moon-theme-documentation/docs/category/الإعدادات-العامة-098": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---moon-theme-documentation-docs-category-الإعدادات-العامة-848-960"
+  },
+  "/moon-theme-documentation/docs/category/الصفحات-5a4": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---moon-theme-documentation-docs-category-الصفحات-3-e-5-f31"
+  },
+  "/moon-theme-documentation/docs/category/مكونات-الصفحة-الرئيسية-240": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---moon-theme-documentation-docs-category-مكونات-الصفحة-الرئيسية-278-435"
+  },
+  "/moon-theme-documentation/docs/intro-3ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-intro-0-e-3-cac"
+  },
+  "/moon-theme-documentation/docs/pages/blog-index-1df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-pages-blog-index-361-21e"
+  },
+  "/moon-theme-documentation/docs/pages/blog-single-fdc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-pages-blog-single-775-e9c"
+  },
+  "/moon-theme-documentation/docs/pages/brand-index-901": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-pages-brand-indexbf-0-104"
+  },
+  "/moon-theme-documentation/docs/pages/brand-single-3c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-pages-brand-singledce-3ad"
+  },
+  "/moon-theme-documentation/docs/pages/cart-3df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-pages-cart-4-bf-5ae"
+  },
+  "/moon-theme-documentation/docs/pages/product-page-224": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-pages-product-page-7-a-6-f25"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/about-us-section-286": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-about-us-section-1-f-5-c9e"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/banners-slider-d63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-banners-slider-861-9ae"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/blog-001": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-blog-49-c-414"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/brands-20f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-brands-454-e79"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/descriptive-7cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-descriptive-0-a-3-2f5"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/discount-section-4e9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-discount-sectionaa-1-e25"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/divider-fd2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-dividerd-8-d-efd"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/faq-c9c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-faq-13-a-bdd"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/fixed-products-d94": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-fixed-products-24-e-811"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/grid_links-9df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-grid-links-6-cd-77e"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/main-links-builder-794": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-main-links-buildercdf-bb4"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/maps-186": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-mapsd-8-e-96e"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/marquee-65c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-marqueeb-73-a78"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/products-banner-2de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-products-banner-5-ba-461"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/products-slider-d3a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-products-slider-665-adf"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/simple-main-links-b9a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-simple-main-linksec-3-6ae"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/slide-show-fff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-slide-show-786-acb"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/socials-4ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-socials-6-dd-281"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/static-banners-7db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-static-bannerse-43-e50"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/stats-210": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-stats-1-e-4-622"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/store-features-5d3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-store-featureseb-7-98c"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/store-history-9fc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-store-history-4-ac-1bb"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/store-steps-d23": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-store-steps-1-cd-60d"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/tab-fixed-products-566": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-tab-fixed-productscef-7a7"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/testimonials-138": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-testimonials-773-85a"
+  },
+  "/moon-theme-documentation/docs/tutorial-basics/video-section-75f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-basics-video-section-89-c-9c4"
+  },
+  "/moon-theme-documentation/docs/tutorial-extras/store-identity-567": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---moon-theme-documentation-docs-tutorial-extras-store-identityd-3-b-c5f"
+  },
+  "/moon-theme-documentation/-958": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---moon-theme-documentation-changeloga-74-0a4"
+    },
+    "config": "config---moon-theme-documentation-changelog-5-e-9-9ba"
+  }
+}

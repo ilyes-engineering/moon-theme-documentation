@@ -1,0 +1,24 @@
+{
+  "id": "tutorial-basics/grid_links",
+  "title": "grid_links",
+  "description": "---",
+  "source": "@site/docs/tutorial-basics/grid_links.mdx",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/grid_links",
+  "permalink": "/moon-theme-documentation/docs/tutorial-basics/grid_links",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ilyes-engineering/moon-theme-documentation/edit/main/docs/tutorial-basics/grid_links.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "منتجات ثابتة بتبويبات",
+    "permalink": "/moon-theme-documentation/docs/tutorial-basics/tab-fixed-products"
+  },
+  "next": {
+    "title": "الإعدادات العامة",
+    "permalink": "/moon-theme-documentation/docs/category/الإعدادات-العامة"
+  }
+}

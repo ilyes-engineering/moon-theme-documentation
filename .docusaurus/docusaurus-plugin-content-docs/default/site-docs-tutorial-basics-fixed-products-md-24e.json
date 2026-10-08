@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/fixed-products",
+  "title": "منتجات ثابتة",
+  "description": "fixed products section",
+  "source": "@site/docs/tutorial-basics/fixed-products.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/fixed-products",
+  "permalink": "/moon-theme-documentation/docs/tutorial-basics/fixed-products",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ilyes-engineering/moon-theme-documentation/edit/main/docs/tutorial-basics/fixed-products.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "الأسئلة المتداولة",
+    "permalink": "/moon-theme-documentation/docs/tutorial-basics/faq"
+  },
+  "next": {
+    "title": "صانع الروابط السريعة",
+    "permalink": "/moon-theme-documentation/docs/tutorial-basics/main-links-builder"
+  }
+}

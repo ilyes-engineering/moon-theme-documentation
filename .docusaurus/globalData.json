@@ -1,0 +1,213 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/moon-theme-documentation/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/moon-theme-documentation/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/moon-theme-documentation/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pages/blog-index",
+              "path": "/moon-theme-documentation/docs/pages/blog-index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pages/blog-single",
+              "path": "/moon-theme-documentation/docs/pages/blog-single",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pages/brand-index",
+              "path": "/moon-theme-documentation/docs/pages/brand-index",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pages/brand-single",
+              "path": "/moon-theme-documentation/docs/pages/brand-single",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pages/cart",
+              "path": "/moon-theme-documentation/docs/pages/cart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pages/product-page",
+              "path": "/moon-theme-documentation/docs/pages/product-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/about-us-section",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/about-us-section",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/banners-slider",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/banners-slider",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/blog",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/blog",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/brands",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/brands",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/descriptive",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/descriptive",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/discount-section",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/discount-section",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/divider",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/divider",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/faq",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/fixed-products",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/fixed-products",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/grid_links",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/grid_links",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/main-links-builder",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/main-links-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/maps",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/maps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/marquee",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/marquee",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/products-banner",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/products-banner",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/products-slider",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/products-slider",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/simple-main-links",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/simple-main-links",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/slide-show",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/slide-show",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/socials",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/socials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/static-banners",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/static-banners",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/stats",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/stats",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/store-features",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/store-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/store-history",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/store-history",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/store-steps",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/store-steps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/tab-fixed-products",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/tab-fixed-products",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/testimonials",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/testimonials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/video-section",
+              "path": "/moon-theme-documentation/docs/tutorial-basics/video-section",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-extras/store-identity",
+              "path": "/moon-theme-documentation/docs/tutorial-extras/store-identity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/مكونات-الصفحة-الرئيسية",
+              "path": "/moon-theme-documentation/docs/category/مكونات-الصفحة-الرئيسية",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/الإعدادات-العامة",
+              "path": "/moon-theme-documentation/docs/category/الإعدادات-العامة",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/الصفحات",
+              "path": "/moon-theme-documentation/docs/category/الصفحات",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/moon-theme-documentation/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

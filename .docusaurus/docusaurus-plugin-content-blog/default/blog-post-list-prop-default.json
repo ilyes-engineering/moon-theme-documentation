@@ -1,0 +1,17 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "مقدمة مدونة",
+      "permalink": "/moon-theme-documentation/blog/blog",
+      "unlisted": false,
+      "date": "2026-02-24T15:07:30.000Z"
+    },
+    {
+      "title": "moon-theme-blog",
+      "permalink": "/moon-theme-documentation/blog/moon-theme-blog",
+      "unlisted": false,
+      "date": "2026-02-24T15:07:30.000Z"
+    }
+  ]
+}
