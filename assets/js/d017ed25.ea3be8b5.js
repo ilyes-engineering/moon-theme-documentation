@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmoon_docs=self.webpackChunkmoon_docs||[]).push([[7359],{6877:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/moon-docs-build/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
